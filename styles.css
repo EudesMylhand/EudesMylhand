@@ -1498,13 +1498,12 @@ footer a{
     .home-container .media-icons {
         position: absolute;
         left: 0;
-        /* border: 1px solid yellow; */
         top:80px;
     }
 
-    /* .contact h3, span{
-        font-size: .9em;
-    } */
+    .contact h3, span{
+        font-size: .9rem;
+    }
 
 
 
