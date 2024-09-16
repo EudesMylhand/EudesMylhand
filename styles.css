@@ -1268,10 +1268,7 @@ footer a{
     width: 100%;
 }
 
-/* .contact-card .title{
-    font-size: 0.7em;
-    line-height: 40px;
-} */
+
 
 
 /*Media query max-width 1070px  */
@@ -1301,10 +1298,6 @@ footer a{
         }
 
         .nav-menu-btn{
-            background: url("images/bars-solid.png")no-repeat;
-            /* filter: var(--color-filter); */
-            background-size: 30px;
-            background-position: center;
             width:40px;
             height: 40px;
             display: block;
@@ -1341,12 +1334,12 @@ footer a{
             margin: 15px 50px;
         }
 
-        .nav-close-btn{
+        .nav-close-btn i{
             position: absolute;
-            background: url(images/close-button1.png)no-repeat;
-            /* filter: var(--color-filter); */
+            color: var(--second-color);
             background-size: 12px;
             background-position: 12px;
+            font-size: xx-large;
             width: 40px;
             height: 40px;
             top: 0;
