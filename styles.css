@@ -925,16 +925,16 @@ h4 label{
 }
 
 .portfolio-close-btn{
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin: 25px;
-    cursor: pointer;
     font-size: 1.5rem;
+    position: absolute;
+    right: 40px;
 }
 
-.portfolio-close-btn i{
-
+.portfolio-model-body i{
+    width: 40px;
+    height: 40px;
+    align-self: center;
+    justify-self: center;
 }
 
 .portfolio-close-btn:hover{

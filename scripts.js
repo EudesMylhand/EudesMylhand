@@ -9,8 +9,8 @@ const serviceModal=document.querySelectorAll(".service-modal");
 const learMoreBtn=document.querySelectorAll(".learn-more-btn");
 const modalCloseBtn=document.querySelectorAll(".modal-close-btn");
 
-var modal= function (modalclick) {
-    serviceModal[modalclick].classList.add("active");
+var modal= function (modalClick) {
+    serviceModal[modalClick].classList.add("active");
 }
 
 learMoreBtn.forEach((learMoreBtn,i) =>{
@@ -34,8 +34,8 @@ const portfolioModals = document.querySelectorAll(".portfolio-model");
 const imgCards = document.querySelectorAll(".img-card");
 const PortfolioCloseBtns=document.querySelectorAll(".portfolio-close-btn");
 
-var portfolioModal = function (modalclick) {
-    portfolioModals[modalclick].classList.add("active");
+var portfolioModal = function (modalClick) {
+    portfolioModals[modalClick].classList.add("active");
 }
 
 imgCards.forEach((imgCard, i) =>{
