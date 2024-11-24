@@ -376,9 +376,10 @@ header.sticky .nav-bar{
 }
 
 .section-title-02{
+    text-align: center;
     font-size: 2.5em;
     font-weight: 700;
-    transform: translateY(-80px);
+    /* transform: translateY(-80px); */
 }
 
 .section-title-02::before{
