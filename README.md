@@ -1,5 +1,5 @@
 <!-- Header avec animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Eudes%20Mylhand&fontSize=30&fontAlignY=35&desc=A%20passionate%2full-stack%20Developer%20from%20France%20🇫🇷&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Eudes%20Mylhand&fontSize=30&fontAlignY=35&desc=A%20passionate%20full-stack%20Developer%20from%20France%20🇫🇷&descAlignY=55&descAlign=50)
 
 ---
 
