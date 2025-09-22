@@ -51,7 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudesmylhand&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<p align="left">
 ![GitHub Streak](https://streak-stats.demolab.com?user=eudesmylhand&theme=tokyonight&border_radius=10)  
+</p>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=eudesmylhand&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
