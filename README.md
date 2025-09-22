@@ -32,8 +32,7 @@
 ### ⚙️ Backend  
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Spring](https://skillicons.dev/icons?i=spring) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![GraphQL](https://skillicons.dev/icons?i=graphql)  
 
-### 📱 Mobile  
-![Android](https://skillicons.dev/icons?i=android) ![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Swift](https://skillicons.dev/icons?i=swift)  
+ ![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react) 
 
 ### 🧠 AI/ML  
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://skillicons.dev/icons?i=python) ![Scikit-learn](https://skillicons.dev/icons?i=python) ![OpenCV](https://skillicons.dev/icons?i=opencv)  
@@ -42,7 +41,7 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![SQLite](https://skillicons.dev/icons?i=sqlite)  
 
 ### ☁️ DevOps & Cloud  
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Azure](https://skillicons.dev/icons?i=azure) ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
+![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker)  ![Azure](https://skillicons.dev/icons?i=azure) 
 
 ---
 
